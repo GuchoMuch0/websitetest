@@ -1,0 +1,51 @@
+CREATE TABLE /*TABLE_PREFIX*/t_item_seo (
+seo_item_id INT UNSIGNED NOT NULL,
+seo_title VARCHAR(800),
+seo_description VARCHAR(1200),
+seo_keywords VARCHAR(800),
+
+PRIMARY KEY (seo_item_id)
+) ENGINE=InnoDB DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';
+
+
+CREATE TABLE /*TABLE_PREFIX*/t_pages_seo (
+seo_page_id INT UNSIGNED NOT NULL,
+seo_title VARCHAR(800),
+seo_description VARCHAR(1200),
+seo_keywords VARCHAR(800),
+
+PRIMARY KEY (seo_page_id)
+) ENGINE=InnoDB DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';
+
+CREATE TABLE /*TABLE_PREFIX*/t_categories_seo (
+seo_category_id INT UNSIGNED NOT NULL,
+seo_title VARCHAR(800),
+seo_description VARCHAR(1200),
+seo_keywords VARCHAR(800),
+
+PRIMARY KEY (seo_category_id)
+) ENGINE=InnoDB DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';
+
+CREATE TABLE /*TABLE_PREFIX*/t_region_seo(
+seo_region_id INT UNSIGNED NOT NULL,
+seo_title VARCHAR(800),
+seo_description VARCHAR(1200),
+seo_keywords VARCHAR(800),
+PRIMARY KEY (seo_region_id)
+) ENGINE=InnoDB DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';
+
+CREATE TABLE /*TABLE_PREFIX*/t_city_seo(
+seo_city_id INT UNSIGNED NOT NULL,
+seo_title VARCHAR(800),
+seo_description VARCHAR(1200),
+seo_keywords VARCHAR(800),
+PRIMARY KEY (seo_city_id)
+) ENGINE=InnoDB DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';
+
+CREATE TABLE /*TABLE_PREFIX*/t_home_seo(
+seo_home_id INT UNSIGNED NOT NULL,
+seo_title VARCHAR(800),
+seo_description VARCHAR(1200),
+seo_keywords VARCHAR(800),
+PRIMARY KEY (seo_home_id)
+) ENGINE=InnoDB DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';

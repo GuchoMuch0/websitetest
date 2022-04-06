@@ -1,0 +1,78 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 02/06/2019 11:58
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+}
+
+.flaticon-car-key:before { content: "\f100"; }
+.flaticon-auto-sale:before { content: "\f101"; }
+.flaticon-car:before { content: "\f102"; }
+.flaticon-car-1:before { content: "\f103"; }
+.flaticon-pistons:before { content: "\f104"; }
+.flaticon-engine:before { content: "\f105"; }
+.flaticon-engine-1:before { content: "\f106"; }
+.flaticon-oil:before { content: "\f107"; }
+.flaticon-steering-wheel:before { content: "\f108"; }
+.flaticon-dashboard:before { content: "\f109"; }
+.flaticon-gas-station:before { content: "\f10a"; }
+.flaticon-dashboard-1:before { content: "\f10b"; }
+.flaticon-login:before { content: "\f10c"; }
+.flaticon-magnifying-glass:before { content: "\f10d"; }
+.flaticon-search:before { content: "\f10e"; }
+.flaticon-calendar:before { content: "\f10f"; }
+.flaticon-appointment:before { content: "\f110"; }
+.flaticon-shifter:before { content: "\f111"; }
+.flaticon-fuel-station:before { content: "\f112"; }
+.flaticon-camera:before { content: "\f113"; }
+.flaticon-youtube:before { content: "\f114"; }
+.flaticon-maps-and-flags:before { content: "\f115"; }
+.flaticon-placeholder:before { content: "\f116"; }
+.flaticon-placeholder-1:before { content: "\f117"; }
+.flaticon-menu:before { content: "\f118"; }
+.flaticon-menu-1:before { content: "\f119"; }
+.flaticon-road:before { content: "\f11a"; }
+.flaticon-car5:before { content: "\f11b"; }
+.flaticon-cross-out:before { content: "\f11c"; }
+.flaticon-down-arrow:before { content: "\f11d"; }
+.flaticon-play-button:before { content: "\f11e"; }
+.flaticon-checked:before { content: "\f11f"; }
+.flaticon-phone-call:before { content: "\f120"; }
+.flaticon-tick:before { content: "\f121"; }
+.flaticon-menu-2:before { content: "\f122"; }
+.flaticon-list-with-dots:before { content: "\f123"; }
+.flaticon-heart:before { content: "\f124"; }
+.flaticon-heart-1:before { content: "\f125"; }
+.flaticon-photo:before { content: "\f126"; }
+.flaticon-send:before { content: "\f127"; }
+.flaticon-email:before { content: "\f128"; }
+.flaticon-house:before { content: "\f129"; }
+.flaticon-attach:before { content: "\f12a"; }
+.flaticon-smartphone-call:before { content: "\f12b"; }
+.flaticon-smartphone:before { content: "\f12c"; }
+.flaticon-sent-mail:before { content: "\f12d"; }
+.flaticon-envelope:before { content: "\f12e"; }

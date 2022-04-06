@@ -1,0 +1,876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Instant Messenger Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-04 12:25+0300\n"
+"PO-Revision-Date: 2019-01-04 13:31+0300\n"
+"Last-Translator: Miso <miso546@azet.sk>\n"
+"Language-Team: MB Themes <info@mb-themes.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: __;_e;_m\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: languages/en_US\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/configure.php:3 admin/configure.php:32 index.php:399 index.php:408
+#: index.php:440
+msgid "Configure"
+msgstr "Настройка"
+
+#: admin/configure.php:23
+msgid "Settings were successfully saved"
+msgstr "Настройки были успешно сохранены"
+
+#: admin/configure.php:43
+msgid "Replace Contact Seller Functionality"
+msgstr "Заменить функцию Контакт с продавцом"
+
+#: admin/configure.php:46
+msgid "Contact seller functionality will be replaced with instant messages."
+msgstr "Функция Контакт с продавцом будут заменена на instant messages."
+
+#: admin/configure.php:50
+msgid "Show Header Link to Registered Only"
+msgstr ""
+"Показывать Ссылку в заголовке только для зарегестрированных пользователей"
+
+#: admin/configure.php:53
+msgid ""
+"When enabled, link in header to show messages will be shown to logged in "
+"users only. <br/>Link is shown via code"
+msgstr ""
+"При включении, ссылку в заголовке, сообщения будут показаны только для "
+"Авторизованных пользователей. <br/>Ссылка отображается через код"
+
+#: admin/configure.php:57
+msgid "Notify User only Once"
+msgstr "Уведомить пользователя только один раз"
+
+#: admin/configure.php:60
+msgid ""
+"User will not be notified about new messages only if previous messages in "
+"same conversation has been read."
+msgstr ""
+"Пользователь не уведомляется о новых сообщениях, только если прочитал "
+"предыдущие сообщения в этом разговоре."
+
+#: admin/configure.php:64
+msgid "Hook Button to Item Page"
+msgstr "Hook Button для страницы объявления"
+
+#: admin/configure.php:67
+msgid ""
+"\"Send Message\" button will be shown on listing page without need of theme "
+"modifications."
+msgstr ""
+"Кнопка «Отправить сообщение» будет отображаться на странице объявления без "
+"необходимости изменения темы."
+
+#: admin/configure.php:71
+msgid "Enable Attachments in Messages"
+msgstr "Включить вложения в сообщениях"
+
+#: admin/configure.php:74
+msgid "Users will be able to upload attachment when sending message."
+msgstr "Пользователи смогут загружать вложения при отправке сообщения."
+
+#: admin/configure.php:78
+msgid "Attachment Maximum Size"
+msgstr "Максимальный размер вложения"
+
+#: admin/configure.php:80
+msgid "kb"
+msgstr "кб"
+
+#: admin/configure.php:82
+msgid "When attachment is larger, it will not be sent."
+msgstr "Когда вложение больше, оно не будет отправлено."
+
+#: admin/configure.php:86
+msgid "Allowed File Extensions in Attachment"
+msgstr "Разрешенные расширения файлов во вложении"
+
+#: admin/configure.php:89
+msgid "Delimit extensions with comma. Example: png, jpg, gif"
+msgstr "Разделяйте расширения запятыми. Пример: png, jpg, gif"
+
+#: admin/configure.php:93
+msgid "Allow Users to Remove Messages"
+msgstr "Разрешить пользователям удалять сообщения"
+
+#: admin/configure.php:96
+msgid ""
+"Users will be able to remove their own messages from conversation, but still "
+"will not be able to remove whole conversation."
+msgstr ""
+"Пользователи смогут удалять свои сообщения из разговора, но все равно не "
+"смогут удалить весь разговор."
+
+#: admin/configure.php:100
+msgid "Threads per Page"
+msgstr "Темы на странице"
+
+#: admin/configure.php:102
+msgid "threads"
+msgstr "потоки"
+
+#: admin/configure.php:104
+msgid "Set how many threads are shown on 1 page in user profile (pagination)."
+msgstr ""
+"Установите, сколько потоков показано на 1 странице в профиле пользователя "
+"(нумерация страниц)."
+
+#: admin/configure.php:110
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/configure.php:119
+msgid "Plugin Setup"
+msgstr "Настройка плагина"
+
+#: admin/configure.php:124
+msgid ""
+"To show link to message center and count of unread messages of user, place "
+"following link to your theme files"
+msgstr ""
+"Чтобы показать ссылку на центр сообщений и количество непрочитанных "
+"сообщений пользователя, поместите следующую ссылку на файлы вашей темы"
+
+#: admin/configure.php:131
+msgid ""
+"To show \"Send message\" button, place following link to your theme files "
+"(item.php, search-list.php, ...)"
+msgstr ""
+"Чтобы показать кнопку «Отправить сообщение», поместите следующую ссылку на "
+"файлы вашей темы (item.php, search-list.php, ...)"
+
+#: admin/configure.php:141
+msgid "Help"
+msgstr "Помощь"
+
+#: admin/configure.php:144
+msgid ""
+"Each user can access messages in user account clicking on \"Message center\"."
+msgstr ""
+"Каждый пользователь может получить доступ к сообщениям в учетной записи "
+"пользователя, щелкнув «Центр сообщений»."
+
+#: admin/configure.php:145
+msgid ""
+"Each thread can be flagged by user (for personal preference - as important "
+"or not solved yet). Flag is shared between both users in conversation."
+msgstr ""
+"Каждый поток может быть помечен пользователем (для личных предпочтений - как "
+"важный или еще не решен). Флаг делится между обоими пользователями в "
+"разговоре."
+
+#: admin/configure.php:146
+msgid ""
+"On each conversation can be set if user want to be notified by email or not."
+msgstr ""
+"На каждый разговор можно установить, хочет ли пользователь получать "
+"уведомления по электронной почте или нет."
+
+#: admin/configure.php:150
+msgid ""
+"Original \"Contact Seller\" functionality will be replaced with Instant "
+"Messenger plugin. This means that instead of sending mail to seller, message "
+"will be sent and seller can see this message in it's profile."
+msgstr ""
+"Оригинальный функционал «Связаться с продавцом» будет заменен плагином "
+"Instant Messenger. Это означает, что вместо отправки письма продавцу будет "
+"отправлено сообщение, и продавец сможет увидеть это сообщение в своем "
+"профиле."
+
+#: admin/configure.php:151
+msgid ""
+"It is highly recommended to enable this. When disabled, each time there is "
+"new message, user will receive email notification, no matter if previous "
+"message was read or not. When enabled, user will receive email notification "
+"only in case when previous message was read. This avoid sending multiple "
+"emails when sending more messages at once. This also avoid spamming your "
+"users."
+msgstr ""
+"Настоятельно рекомендуется включить это. Когда этот параметр отключен, "
+"каждый раз, когда появляется новое сообщение, пользователь получит "
+"уведомление по электронной почте, независимо от того, было прочитано "
+"предыдущее сообщение или нет. Если этот параметр включен, пользователь "
+"получит уведомление по электронной почте только в том случае, если было "
+"прочитано предыдущее сообщение. Это позволяет избежать отправки нескольких "
+"электронных писем при отправке большего количества сообщений одновременно. "
+"Это также позволяет избежать спама ваших пользователей."
+
+#: admin/configure.php:152
+msgid ""
+"Enable to add \"Send message\" button to listing page via hook. This means "
+"you do not need to modify theme files. Button will be added to item_detail "
+"hook."
+msgstr ""
+"Позволяет добавить кнопку \"Отправить сообщение\" на страницу списка через "
+"хук. Это означает, что вам не нужно изменять файлы темы. Кнопка будет "
+"добавлена в ловушку item_detail."
+
+#: admin/configure.php:153
+msgid ""
+"Allow or deny sending attachments in messages. When enabled, user can upload "
+"files and send it with message. Note that files are stored on your server in "
+"folder oc-content/plugins/instant_messenger/download."
+msgstr ""
+"Разрешить или запретить отправку вложений в сообщениях. Когда включено, "
+"пользователь может загружать файлы и отправлять их с сообщением. Обратите "
+"внимание, что файлы хранятся на вашем сервере в папке oc-content / plugins / "
+"instant_messenger / download."
+
+#: admin/configure.php:154
+msgid ""
+"Set what is maximum allowed file size of attachment send in message. Note "
+"that attachments are stored on your server so it is recommended to set this "
+"to acceptable value, i.e. 1024kb."
+msgstr ""
+"Установите максимально допустимый размер файла вложения, отправляемого в "
+"сообщении. Обратите внимание, что вложения хранятся на вашем сервере, "
+"поэтому рекомендуется установить это значение на приемлемое значение, то "
+"есть 1024 КБ."
+
+#: admin/configure.php:155
+msgid ""
+"Choose which kind of files can be sent in attachments. It is recommended not "
+"to allow sending PHP file as this might be security risk for your site "
+"(script could be executed)."
+msgstr ""
+"Выберите, какие файлы могут быть отправлены во вложениях. Рекомендуется не "
+"разрешать отправку PHP-файла, так как это может быть угрозой безопасности "
+"для вашего сайта (скрипт может быть выполнен)."
+
+#: admin/configure.php:156
+msgid ""
+"Enable if you want to allow users to remove their messages in threads. Note "
+"that users will not be able to remove threads. In case you want to use this "
+"plugin as way of support delivery, this option should be disabled."
+msgstr ""
+"Включите, если вы хотите разрешить пользователям удалять свои сообщения в "
+"темах. Обратите внимание, что пользователи не смогут удалять темы. Если вы "
+"хотите использовать этот плагин в качестве способа доставки поддержки, эта "
+"опция должна быть отключена."
+
+#: admin/configure.php:157
+msgid ""
+"Set how many threads should be shown on 1 page. It is recommended to set not "
+"more than 50 threads to avoid server performance issues."
+msgstr ""
+"Установите, сколько потоков должно быть показано на 1 странице. "
+"Рекомендуется установить не более 50 потоков, чтобы избежать проблем с "
+"производительностью сервера."
+
+#: admin/maintenance.php:3 index.php:410 index.php:442
+msgid "Maintenance"
+msgstr "Обслуживание"
+
+#: admin/maintenance.php:21
+msgid "Threads with no activity in last"
+msgstr "Темы без активности в прошлом"
+
+#: admin/maintenance.php:21
+msgid "days were removed. (last activity on"
+msgstr "дни были удалены. (последнее действие на"
+
+#: admin/maintenance.php:21 admin/maintenance.php:38
+msgid "or earlier)."
+msgstr "или ранее)."
+
+#: admin/maintenance.php:38
+msgid "Attachments older than"
+msgstr "Вложения старше чем"
+
+#: admin/maintenance.php:38
+msgid "days were removed. (uploaded on"
+msgstr "дни были удалены. (загружено на"
+
+#: admin/maintenance.php:49
+msgid "Remove old threads"
+msgstr "Удалить старые темы"
+
+#: admin/maintenance.php:61
+msgid "Remove Threads Older than"
+msgstr "Удалить темы старше чем"
+
+#: admin/maintenance.php:63 admin/maintenance.php:92
+msgid "days"
+msgstr "дней"
+
+#: admin/maintenance.php:65
+msgid ""
+"When there was no activity on thread for last XY days, it will be removed "
+"with all messages."
+msgstr ""
+"Если в течение последних XY дней в цепочке не было активности, она будет "
+"удалена со всеми сообщениями."
+
+#: admin/maintenance.php:69 admin/maintenance.php:98 user/block.php:10
+msgid "Remove"
+msgstr "Удалить"
+
+#: admin/maintenance.php:79
+msgid "Remove old attachments"
+msgstr "Удалить старые вложения"
+
+#: admin/maintenance.php:90
+msgid "Remove Attachments Older than"
+msgstr "Удалить вложения старше"
+
+#: admin/maintenance.php:94
+msgid "Attachments that are older than XY days will be removed."
+msgstr "Вложения старше XY дней будут удалены."
+
+#: admin/messages.php:3 index.php:138 user/threads.php:62
+msgid "Messages"
+msgstr "Сообщения"
+
+#: admin/messages.php:21
+msgid "Messages in thread"
+msgstr "Сообщения в теме"
+
+#: admin/messages.php:26
+msgid "Thread Title"
+msgstr "Название темы"
+
+#: admin/messages.php:31
+msgid "Questioner (asking question)"
+msgstr "Опрашивающий (задающий вопрос)"
+
+#: admin/messages.php:36
+msgid "Respondent (seller)"
+msgstr "Ответчик (продавец)"
+
+#: admin/messages.php:41 admin/threads.php:54 index.php:210
+msgid "Listing"
+msgstr "Список"
+
+#: admin/messages.php:52 admin/threads.php:52
+msgid "ID"
+msgstr "№"
+
+#: admin/messages.php:53
+msgid "Sender (from)"
+msgstr "Отправитель (от)"
+
+#: admin/messages.php:54
+msgid "Message"
+msgstr "Сообщение"
+
+#: admin/messages.php:55
+msgid "Attachment"
+msgstr "Прикрепление"
+
+#: admin/messages.php:56
+msgid "Date"
+msgstr "Дата"
+
+#: admin/messages.php:65
+msgid "Reply of seller"
+msgstr "Ответ продавца"
+
+#: admin/messages.php:77
+msgid "No messages in this thread"
+msgstr "В этой теме нет сообщений"
+
+#: admin/threads.php:3
+msgid "Threads"
+msgstr "Потоки"
+
+#: admin/threads.php:28
+msgid "User threads"
+msgstr "Пользовательские темы"
+
+#: admin/threads.php:39
+msgid "User ID"
+msgstr "№ пользователя"
+
+#: admin/threads.php:44
+msgid "Filter threads"
+msgstr "Фильтровать темы"
+
+#: admin/threads.php:53
+msgid "Title"
+msgstr "Заглавие"
+
+#: admin/threads.php:55
+msgid "Questioner (from)"
+msgstr "Вопросник (с)"
+
+#: admin/threads.php:56
+msgid "Respondent (to)"
+msgstr "Ответчик (до)"
+
+#: admin/threads.php:57
+msgid "Count"
+msgstr "Подсчитывать"
+
+#: admin/threads.php:58
+msgid "Last activity"
+msgstr "Последняя активность"
+
+#: admin/threads.php:59
+msgid "Show messages"
+msgstr "Показать сообщения"
+
+#: admin/threads.php:72 user/create_thread.php:116 user/threads.php:166
+msgid "pm"
+msgstr "pm"
+
+#: admin/threads.php:72 user/create_thread.php:116
+msgid "pms"
+msgstr "pms"
+
+#: admin/threads.php:81
+msgid "No threads found"
+msgstr "Темы не найдены"
+
+#: admin/threads.php:83
+msgid "No threads found for selected user"
+msgstr "Темы для выбранного пользователя не найдены"
+
+#: admin/threads.php:101 user/threads.php:184
+msgid "Page"
+msgstr "Страница"
+
+#: email.php:2
+msgid "Name of user that will receive email notification"
+msgstr "Имя пользователя, который получит уведомление по электронной почте"
+
+#: email.php:3
+msgid "Name of user that has send message"
+msgstr "Имя пользователя, отправившего сообщение"
+
+#: email.php:4
+msgid "Link to listing"
+msgstr "Ссылка на листинг"
+
+#: email.php:5
+msgid "Title of conversation"
+msgstr "Название разговора"
+
+#: email.php:6
+msgid "Link to conversation"
+msgstr "Ссылка на разговор"
+
+#: email.php:7
+msgid "Message in conversation"
+msgstr "Сообщение в разговоре"
+
+#: functions.php:22
+msgid "User has blocked you. You cannot message this user anymore."
+msgstr ""
+"Пользователь заблокировал вас. Вы не можете больше отправлять сообщения "
+"этому пользователю."
+
+#: functions.php:29
+msgid "Your current email is not allowed"
+msgstr "Ваш текущий адрес электронной почты не разрешен"
+
+#: functions.php:32
+msgid "Your current IP is not allowed"
+msgstr "Ваш текущий IP не разрешен"
+
+#: functions.php:89
+msgid "Check with seller"
+msgstr "Уточняйте у продавца"
+
+#: functions.php:91
+msgid "Free"
+msgstr "Свободно"
+
+#: functions.php:128
+msgid "An error with file sending has occurred, please try again"
+msgstr "Произошла ошибка при отправке файла, попробуйте еще раз"
+
+#: functions.php:131
+msgid "File is too big and was not sent. Maximum file size is:"
+msgstr "Файл слишком большой и не был отправлен. Максимальный размер файла:"
+
+#: functions.php:134
+msgid ""
+"File extension is not allowed, file was not sent. Only files with following "
+"extensions are allowed to send in attachment"
+msgstr ""
+"Расширение файла не разрешено, файл не был отправлен. Только файлы со "
+"следующими расширениями разрешено отправлять во вложении"
+
+#: functions.php:137
+msgid "An error with file sending has occurred, please try again."
+msgstr "Произошла ошибка при отправке файла, пожалуйста, попробуйте еще раз."
+
+#: functions.php:207
+msgid "Message successfully sent to"
+msgstr "Сообщение успешно отправлено"
+
+#: functions.php:223
+msgid "Minute ago"
+msgstr "Минуту назад"
+
+#: functions.php:225
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d минут назад"
+
+#: functions.php:227
+#, php-format
+msgid "%d hour ago"
+msgstr "%d час назад"
+
+#: functions.php:229
+#, php-format
+msgid "%d hours ago"
+msgstr "%d часов назад"
+
+#: functions.php:231
+#, php-format
+msgid "%d day ago"
+msgstr "%d день назад"
+
+#: functions.php:233
+#, php-format
+msgid "%d days ago"
+msgstr "%d дней назад"
+
+#: functions.php:235
+#, php-format
+msgid "%d week ago"
+msgstr "%d неделю назад"
+
+#: functions.php:237
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d недель назад"
+
+#: functions.php:239
+#, php-format
+msgid "%d month ago"
+msgstr "%d месяц назад"
+
+#: functions.php:241
+#, php-format
+msgid "%d months ago"
+msgstr "%d месяцев назад"
+
+#: index.php:107
+msgid "Your Name: This field is required, enter your name please."
+msgstr ""
+"Ваше имя: Это поле обязательно для заполнения, пожалуйста, введите ваше имя."
+
+#: index.php:108
+msgid "Your Name: Name is too short, enter at least 3 characters."
+msgstr "Ваше имя: Имя слишком короткое, введите не менее 3 символов."
+
+#: index.php:109
+msgid "Your Email: This field is required, enter your email please."
+msgstr ""
+"Ваш E-mail: Это поле обязательно для заполнения, пожалуйста, введите ваш "
+"электронный адрес."
+
+#: index.php:110
+msgid "Your Email: Address your have entered is not in valid format."
+msgstr "Ваш E-mail: Введенный вами адрес не в правильном формате."
+
+#: index.php:111
+msgid "Title: Please enter title of this converstation."
+msgstr "Название: Пожалуйста, введите название этого разговора."
+
+#: index.php:112
+msgid "Title: Title is too short, enter at least 2 characters."
+msgstr "Заголовок: заголовок слишком короткий, введите не менее 2 символов."
+
+#: index.php:113
+msgid "Message: This field is required, please enter your message."
+msgstr ""
+"Сообщение: Это поле обязательно для заполнения, пожалуйста, введите ваше "
+"сообщение."
+
+#: index.php:114
+msgid "Message: Enter at least 2 characters."
+msgstr "Сообщение: введите не менее 2 символов."
+
+#: index.php:138
+msgid "unread"
+msgstr "непрочитанные"
+
+#: index.php:160
+msgid "Click to open conversation"
+msgstr "Нажмите, чтобы открыть разговор"
+
+#: index.php:163 user/create_thread.php:115 user/threads.php:161
+msgid "to"
+msgstr "в"
+
+#: index.php:163 user/create_thread.php:115 user/threads.php:161
+msgid "from"
+msgstr "от"
+
+#: index.php:171
+msgid "Show all messages"
+msgstr "Показать все сообщения"
+
+#: index.php:174
+msgid "You have no messages yet"
+msgstr "У вас еще нет сообщений"
+
+#: index.php:176
+msgid "Login to show messages"
+msgstr "Войдите, чтобы показать сообщения"
+
+#: index.php:210
+msgid "inquiry"
+msgstr "запрос"
+
+#: index.php:234
+msgid "Contact phone"
+msgstr "Контактный телефон"
+
+#: index.php:327
+msgid "Personal Messages"
+msgstr "Личные сообщения"
+
+#: index.php:329
+msgid "Message center"
+msgstr "Центр сообщений"
+
+#: index.php:369 user/create_thread.php:90 user/messages.php:221
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+#: index.php:369
+msgid "to seller"
+msgstr "продавцу"
+
+#: index.php:409
+msgid "Converstations"
+msgstr "Диалоги"
+
+#: index.php:425
+msgid "Report Bug"
+msgstr "Сообщить об ошибке"
+
+#: index.php:426
+msgid "Support Forums"
+msgstr "Форумы поддержки"
+
+#: index.php:427
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+#: index.php:441
+msgid "Conversations"
+msgstr "Диалоги"
+
+#: user/block.php:7
+msgid "Blocked Users"
+msgstr "Заблокированные пользователи"
+
+#: user/block.php:32
+msgid "There are no active blocks"
+msgstr "Там нет активных блоков"
+
+#: user/create_thread.php:47
+msgid "Start conversation"
+msgstr "Начать разговор"
+
+#: user/create_thread.php:65
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: user/create_thread.php:72
+msgid "Your email"
+msgstr "Ваш адрес электронной почты"
+
+#: user/create_thread.php:79
+msgid "Conversation title"
+msgstr "Заголовок разговора"
+
+#: user/create_thread.php:86 user/messages.php:219
+msgid "Write your message here..."
+msgstr "Напишите ваше сообщение здесь..."
+
+#: user/create_thread.php:96 user/messages.php:227
+msgid "Upload file"
+msgstr "Загрузить файл"
+
+#: user/create_thread.php:108
+msgid ""
+"You have already contacted seller on this listing, you may want to continue "
+"in existing conversation"
+msgstr ""
+"Вы уже связались с продавцом в этом списке, вы можете продолжить "
+"существующий разговор"
+
+#: user/create_thread.php:113
+msgid "Open conversation"
+msgstr "Открытый разговор"
+
+#: user/create_thread.php:114 user/messages.php:48 user/threads.php:138
+msgid "No subject"
+msgstr "Без темы"
+
+#: user/create_thread.php:124
+msgid "You cannot contact yourself"
+msgstr "Вы не можете связаться с самим собой"
+
+#: user/messages.php:44 user/threads.php:134
+#, php-format
+msgid "New offer on %s - %s"
+msgstr "Новое предложение на %s - %s"
+
+#: user/messages.php:65
+msgid "Message removed"
+msgstr "Сообщение удалено"
+
+#: user/messages.php:69
+msgid "This is not your message, you cannot remove it!"
+msgstr "Это не ваше сообщение, вы не можете удалить его!"
+
+#: user/messages.php:82
+msgid "Attachment removed"
+msgstr "Приложение удалено"
+
+#: user/messages.php:86
+msgid "This is not your message, you cannot remove attachment on it!"
+msgstr "Это не ваше сообщение, вы не можете удалить вложение!"
+
+#: user/messages.php:97
+msgid "Thread"
+msgstr "Нить"
+
+#: user/messages.php:110
+#, php-format
+msgid "Offer: %sx %s for %s%s"
+msgstr "Предложение: %sx %s для %s%s"
+
+#: user/messages.php:111
+msgid "Click to view offer"
+msgstr "Нажмите, чтобы посмотреть предложение"
+
+#: user/messages.php:135
+msgid "customer"
+msgstr "покупатель"
+
+#: user/messages.php:137
+msgid "seller"
+msgstr "продавец"
+
+#: user/messages.php:179
+msgid "you"
+msgstr "вы"
+
+#: user/messages.php:199
+msgid "Are you sure you want to delete this message"
+msgstr "Вы уверены, что хотите удалить это сообщение"
+
+#: user/messages.php:199
+msgid "Remove message"
+msgstr "Удалить сообщение"
+
+#: user/messages.php:203
+msgid "Are you sure you want to delete attachment"
+msgstr "Вы уверены, что хотите удалить вложение"
+
+#: user/messages.php:203
+msgid "Remove file"
+msgstr "Удалить файл"
+
+#: user/messages.php:212
+msgid "You do not have any messages"
+msgstr "У вас нет сообщений"
+
+#: user/messages.php:237
+msgid "This is not your thread, you cannot read communication of other users!"
+msgstr "Это не ваша тема, вы не можете читать сообщения других пользователей!"
+
+#: user/threads.php:12
+msgid "This user is already blocked"
+msgstr "Этот пользователь уже заблокирован"
+
+#: user/threads.php:15
+msgid "User with email"
+msgstr "Пользователь с электронной почтой"
+
+#: user/threads.php:15
+msgid "has been block and will not be able to message you anymore."
+msgstr "был заблокирован и не сможет больше вам сообщать."
+
+#: user/threads.php:25
+msgid "User block removed."
+msgstr "Пользовательский блок удален."
+
+#: user/threads.php:33
+msgid "Thread flag has been updated"
+msgstr "Флаг темы обновлен"
+
+#: user/threads.php:41
+msgid "Thread notification has been updated"
+msgstr "Уведомление о теме обновлено"
+
+#: user/threads.php:60
+msgid "Message Center"
+msgstr "Центр сообщений"
+
+#: user/threads.php:63
+msgid "Flag"
+msgstr "Флаг"
+
+#: user/threads.php:64
+msgid "Notify"
+msgstr "Уведомление"
+
+#: user/threads.php:115
+msgid "User is already blocked"
+msgstr "Пользователь уже заблокирован"
+
+#: user/threads.php:118
+msgid "Block user"
+msgstr "Блокировать пользователя"
+
+#: user/threads.php:143
+msgid "There are unread messages in this thread!"
+msgstr "В этой теме есть непрочитанные сообщения!"
+
+#: user/threads.php:146
+msgid "New offer"
+msgstr "Новое предложение"
+
+#: user/threads.php:166
+msgid "s"
+msgstr "с"
+
+#: user/threads.php:169
+msgid "You have marked this message as important. Click to unmark."
+msgstr "Вы отметили это сообщение как важное. Нажмите, чтобы снять отметку."
+
+#: user/threads.php:169
+msgid "Click to mark."
+msgstr "Нажмите, чтобы отметить."
+
+#: user/threads.php:173
+msgid ""
+"You will receive email when there is new message in this thread. Click to "
+"cancel notifications."
+msgstr ""
+"Вы получите электронное письмо, когда в этой теме появится новое сообщение. "
+"Нажмите, чтобы отменить уведомления."
+
+#: user/threads.php:173
+msgid "Click to enable notifications."
+msgstr "Нажмите, чтобы включить уведомления."
+
+#: user/threads.php:195
+msgid "Please log in to see your conversations."
+msgstr "Пожалуйста, войдите, чтобы увидеть ваши разговоры."
+
+#: user/threads.php:197
+msgid "You do not have any conversations"
+msgstr "У вас нет никаких разговоров"

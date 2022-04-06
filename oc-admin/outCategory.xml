@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Categories>
+  <Category>
+    <Name>Легковые автомобили</Name>
+  </Category>
+  <Category>
+    <Name>Грузовые автомобили</Name>
+  </Category>
+  <Category>
+    <Name>Фургоны, дома на колесах, трейлеры</Name>
+  </Category>
+  <Category>
+    <Name>Мотоциклы</Name>
+  </Category>
+  <Category>
+    <Name>Лодки, яхты</Name>
+  </Category>
+  <Category>
+    <Name>Другие транспортные средства</Name>
+  </Category>
+  <Category>
+    <Name>Автозапчасти</Name>
+  </Category>
+</Categories>

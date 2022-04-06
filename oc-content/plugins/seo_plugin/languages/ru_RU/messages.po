@@ -1,0 +1,648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Seo plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-22 00:16+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dis <disruptive555@gmail.com>\n"
+"Language-Team: Diseño Edit Art Group <juanjogarcia@editartgroup.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.4\n"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/CATEGO~1.PHP:6
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/city.php:9
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:127
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/home.php:5
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:37
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/pages.php:17
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/regions.php:9
+msgid "Settings saved"
+msgstr "Настройки  сохранены"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/CATEGO~1.PHP:25
+msgid "Settings categories"
+msgstr "Настройки  для категорий"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/CATEGO~1.PHP:31
+msgid "ID"
+msgstr ""
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/CATEGO~1.PHP:32
+msgid "Category name"
+msgstr "Название категории"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/CATEGO~1.PHP:33
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/city.php:39
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/home.php:34
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/pages.php:52
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/regions.php:38
+msgid "Meta Title"
+msgstr ""
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/CATEGO~1.PHP:34
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/city.php:40
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/home.php:35
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/pages.php:53
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/regions.php:39
+msgid "Meta Description"
+msgstr "Мета Description"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/CATEGO~1.PHP:35
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/city.php:41
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/home.php:36
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/pages.php:54
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/regions.php:40
+msgid "Meta Keywords"
+msgstr "Настройки Meta Keywords"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/CATEGO~1.PHP:103
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/city.php:58
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:309
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:86
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/home.php:52
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:79
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/pages.php:77
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/regions.php:56
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:79
+msgid "Save"
+msgstr "Сохранить"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/city.php:28
+msgid "Settings cities"
+msgstr "Настройки для городов"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:147
+msgid "Settings for Listings page"
+msgstr "Настройки для страницы с объявлением"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:152
+msgid "Show the city in the title of items?"
+msgstr "Показывать город в Title объявления ?"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:154
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:180
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:206
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:232
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:258
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:74
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:61
+msgid "Yes"
+msgstr "Да"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:155
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:181
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:207
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:233
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:259
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:75
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:62
+msgid "No"
+msgstr "Нет"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:160
+msgid "Order of city in title?"
+msgstr "Позиция в title "
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:162
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:188
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:214
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:240
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:266
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:287
+msgid "First"
+msgstr "Первая"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:163
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:189
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:215
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:241
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:267
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:288
+msgid "Second"
+msgstr "Вторая"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:164
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:190
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:216
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:242
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:268
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:289
+msgid "Third"
+msgstr "Третья"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:165
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:191
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:217
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:243
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:269
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:290
+msgid "Fourth"
+msgstr "Четвёртая"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:166
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:192
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:218
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:244
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:270
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:291
+msgid "Fifth"
+msgstr "Пятая"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:167
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:193
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:219
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:245
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:271
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:292
+msgid "Sixth"
+msgstr "Шестая"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:178
+msgid "Show the region in the title of items?"
+msgstr "Показывать регион в Title объявления ?"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:186
+msgid "Order of region in title?"
+msgstr "Позиция в title "
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:204
+msgid "Show the country in the title of items?"
+msgstr "Показывать страну в Title объявления ?"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:212
+msgid "Order of country in title?"
+msgstr "Позиция в title "
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:230
+msgid "Show the category in the title of items?"
+msgstr "Показывать категорию в Title объявления ?"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:238
+msgid "Order of category in title?"
+msgstr "Позиция в title "
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:256
+msgid "Show the site name in the title of items?"
+msgstr "Показывать название сайта в Title объявления ?"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:264
+msgid "Order of site name in title?"
+msgstr "Позиция в title "
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:285
+msgid "Order of item title in title?"
+msgstr "Позиция в title "
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/config.php:302
+msgid "Current Order of Item Title"
+msgstr "Текущая последовательность в Title"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:39
+msgid "Sitemap generated correctly"
+msgstr "Sitemap сгенерирована"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:57
+msgid "Sitemap Generator"
+msgstr "Sitemap генератор"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:58
+msgid "View sitemap"
+msgstr "Посмотреть sitemap"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:62
+msgid "Select frequency of sitemap generation"
+msgstr "Выберите периодичность генерации sitemap"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:64
+msgid "Weekly"
+msgstr "Раз в неделю"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:65
+msgid "Daily"
+msgstr "Каждый день"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:66
+msgid "Hourly"
+msgstr "Каждый час"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:67
+msgid "None"
+msgstr "Никогда"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:72
+msgid "Do you want to include items to sitemap?"
+msgstr "Добавлять объявления в карту сайта ?"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/generate.php:80
+msgid "Limit maximum count of items in sitemap?"
+msgstr "Максимальное кол-во объявлений в карте ?"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:12
+msgid "Seo plugin description"
+msgstr "Описание плагина"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:14
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:668
+msgid "General"
+msgstr "Общие"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:15
+msgid ""
+"If you enable custom keywords, they will be added to keywords they are "
+"generated by categories, listings and static pages."
+msgstr ""
+"В этом же разделе можно задать общие ключевые слова для сайта, которые будут "
+"добавлятся к keywords на всех страницах сайта( кроме главной)"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:16
+msgid "Delimiter is used in every meta title"
+msgstr "Есть возможность настроить разделитель используемый в title на сайте"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:18
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:669
+msgid "Listings"
+msgstr "Объявления"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:19
+msgid ""
+"In this section you can configure the ad title. Selects whether to show it "
+"in the category, city, region, country and site name."
+msgstr ""
+"В этом разделе можно настроить title у объявлений. Выбирается показывать ли "
+"в нём категорию, город, регион, страну и названия сайта."
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:20
+msgid ""
+"You can choose one or more functions. It also set the sequence of their "
+"output."
+msgstr ""
+"Выбирать можно одну или несколько функций. Так же настраивается "
+"последовательность их вывода."
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:23
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:670
+msgid "Categories"
+msgstr "Категории"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:24
+msgid ""
+"In this section you can configure the title, description and keywords for "
+"each category"
+msgstr ""
+"В этом разделе можно настроить title, description и keywords для каждой "
+"категории"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:28
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:671
+msgid "Regions"
+msgstr "Регионы"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:29
+msgid ""
+"In this section you can configure the title, description and keywords for "
+"the regions"
+msgstr ""
+"В этом разделе можно настроить title, description и keywords для регионов"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:30
+msgid ""
+"Print the title on the site will be as follows: Name of the current region - "
+"title that you entered"
+msgstr ""
+"Вывод title на сайте будет происходить следующим образом: Название текущего "
+"региона - title который Вы вписали"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:31
+msgid ""
+"Similarly, description will be displayed and keywords (in this parameter "
+"will be used a comma after the name of the region)"
+msgstr ""
+"Аналогично будет выводиться description и keywords (у этого параметра будет "
+"использоваться запятая после названия региона)"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:32
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:39
+msgid "All enter keywords separated by commas"
+msgstr "Все keywords вводите через запятую"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:35
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:672
+msgid "Cities"
+msgstr "Города"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:36
+msgid ""
+"In this section you can configure the title, description and keywords for "
+"cities"
+msgstr ""
+"В этом разделе можно настроить title, description и keywords для городов"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:37
+msgid ""
+"Print the title on the site will be as follows: Name of the current city - "
+"title that you entered"
+msgstr ""
+"Вывод title на сайте будет происходить следующим образом: Название текущего "
+"города - title который Вы вписали"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:38
+msgid ""
+"Similarly, description will be displayed and keywords (in this parameter "
+"will sipolzovatsya comma after the city name)"
+msgstr ""
+"Аналогично будет выводиться description и keywords (у этого параметра будет "
+"сипользоваться запятая после названия города)"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:43
+msgid "Home page"
+msgstr "Главная"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:44
+msgid ""
+"In this section you can configure the title, description and keywords for "
+"the home page"
+msgstr ""
+"В этом разделе можно настроить title, description и keywords для главной "
+"страницы сайта"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:46
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:674
+msgid "Static Pages"
+msgstr "Статические страницы"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:47
+msgid ""
+"In this section you can configure the title, description and keywords for "
+"each static page"
+msgstr ""
+"В этом разделе можно настроить title, description и keywords для каждой "
+"статической страницы сайта"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:50
+msgid "Sitemap"
+msgstr ""
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:51
+msgid "You can generate a sitemap.xml, keep pressing Save"
+msgstr "Можно cгенерировать sitemap.xml, нажав кнопку сохранить"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:52
+msgid ""
+"You can customize the generation schedule: once a week, hour or day. Please "
+"note this should be allowed to run the built-cron (Settings - Main - "
+"Settings Cron - Allow to run automatically)"
+msgstr ""
+"Можно настроить генерация по расписанию: раз в неделю, час или сутки. "
+"Обратите внимание для этого должно быть разрешено запускать встроенный cron "
+"( Настройки - Главные - Настройки Cron - Разрешить запускать автоматически)."
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:53
+msgid ""
+"After each generation of sitemap, a request is sent to<strong>Yandex</"
+"strong>, <strong>Google</strong> and <strong>Bing</strong>, search engines "
+"reported that sitemap changed and they can quickly index new or changed pages"
+msgstr ""
+"Сразу после каждой генерации карты, отправляется запрос в <strong>Yandex</"
+"strong>, <strong>Google</strong> и <strong>Bing</strong>, поисковым системам "
+"сообщается,что карта сайта изменилась и они могут быстрей проиндексировать "
+"новые или изменённые страницы"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:55
+msgid "Update and reinstall"
+msgstr "Обновление и переустановка"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:56
+msgid "When you update just replace the files via FTP"
+msgstr "При обновление просто замените файлы по FTP"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/help.php:57
+msgid ""
+"If you reinstall plugin, first remove the table from the database: "
+"oc_t_item_seo, oc_t_pages_seo, oc_t_categories_seo, oc_t_region_seo, "
+"oc_t_city_seo and oc_t_home_seo"
+msgstr ""
+"Если Вы переустанвливаете плагин, вначале удалите из базы данных MSQL "
+"таблицы: oc_t_item_seo, oc_t_pages_seo, oc_t_categories_seo, "
+"oc_t_region_seo, oc_t_city_seo and oc_t_home_seo"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/home.php:23
+msgid "Settings for Main Page"
+msgstr "Настройки для  главной страницы"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:196
+msgid "City"
+msgstr "Город"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:201
+msgid "Region"
+msgstr "Регион"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:206
+msgid "Country"
+msgstr "Страна"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:211
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:216
+msgid "Category"
+msgstr "Категория"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:221
+msgid "Item Title"
+msgstr "Title объявления"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:292
+msgid "Publish a listing"
+msgstr "Опубликовать объявление"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:293
+msgid "Edit your listing"
+msgstr "Редактировать объявление"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:294
+msgid "Send to a friend"
+msgstr "Отправить другу"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:295
+msgid "Contact seller"
+msgstr "Связаться с продавцом"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:307
+msgid "Error"
+msgstr "Ошибка"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:319
+msgid "page"
+msgstr "Страница"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:329
+msgid "Show all listings"
+msgstr "Показать все объявления"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:378
+msgid "Search result"
+msgstr "Результаты  поиска"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:390
+msgid "Recover your password"
+msgstr "Восстановить пароль"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:391
+msgid "Login"
+msgstr "Вход"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:395
+msgid "Create a new account"
+msgstr "Зарегистрироваться"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:399
+msgid "Dashboard"
+msgstr "Личный кабинет"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:400
+msgid "Manage my listings"
+msgstr "Управление объявлениями"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:401
+msgid "Manage my alerts"
+msgstr "Управление подписками"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:402
+msgid "Update my profile"
+msgstr "Обновить профиль"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:403
+msgid "Public profile"
+msgstr "Публичный профиль"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:404
+msgid "Change my email"
+msgstr "Изменить почту"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:405
+msgid "Change my password"
+msgstr "Изменить пароль"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:406
+msgid "Recover my password"
+msgstr "Восстановить пароль"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:410
+msgid "Contact"
+msgstr "Контакты"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:673
+msgid "Home Page"
+msgstr "Главная сайта"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/index.php:677
+msgid "Help"
+msgstr "Помощь"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:56
+msgid "General Settings"
+msgstr "Главные настройки"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:59
+msgid "Use the custom keywords defined below?"
+msgstr "Использовать ключевые слова указанные ниже ?"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:66
+msgid "Keywords:"
+msgstr ""
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:68
+msgid "Separate keywords with comma, i.e.: key1, key2, key3"
+msgstr "Разделите keywords с помощью запятой, пример : key1, key2, key3"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:72
+msgid "Delimiter (used in title): "
+msgstr "Разделитель ( используется в Title)"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/key.php:74
+msgid "Do not put blank spaces here, they are auto-generated"
+msgstr "Не ставьте пробелы здесь, они генерируются автоматически"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/pages.php:40
+msgid "Static Pages Settings"
+msgstr "Статические  страницы"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/pages.php:50
+msgid " ID"
+msgstr ""
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/pages.php:51
+msgid "Page Name"
+msgstr "Название страницы"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/regions.php:27
+msgid "Regions Settings"
+msgstr "Настройки для регионов"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:31
+msgid "robots.txt file was successfully updated"
+msgstr "robots.txt успешно обновлён"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:34
+msgid ""
+"It is impossible to write to robots.txt file, please change CHMOD settings "
+"on this file."
+msgstr ""
+"Невозможно сохранить robots.txt file, пожалуйста разберитесь с правами "
+"доступа на хостинге."
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:52
+msgid "Settings robots.txt"
+msgstr "Настройка robots.txt"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:54
+msgid "Which robots.txt you want to use?"
+msgstr "Какой robots.txt Вы хотите использовать?"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:56
+msgid "Custom"
+msgstr "Свой"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:57
+msgid "Default"
+msgstr "По умолчанию"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:62
+msgid "Robots.txt: "
+msgstr ""
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:67
+msgid "Important:"
+msgstr "Важно:"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:68
+msgid ""
+"You should always disable admin folder (oc-admin) to be indexed by search "
+"engines:"
+msgstr "Запретите индексацию папки (oc-admin):"
+
+#: C:/Users/90C5~1/Desktop/seo_new/SEO_PL~1/robots.php:70
+msgid ""
+"It is also desirable to close the registration page, login and password "
+"reminder:"
+msgstr "Так же запретите индексацю папок:"
+
+#~ msgid "Keywords: (Seperate keywords with a comma)"
+#~ msgstr "Keywords: Отдельные ключевые слова после запятой"
+
+#~ msgid "Update"
+#~ msgstr "Обновить"
+
+#~ msgid "Version"
+#~ msgstr "Версия"
+
+#~ msgid "Author"
+#~ msgstr "Автор"

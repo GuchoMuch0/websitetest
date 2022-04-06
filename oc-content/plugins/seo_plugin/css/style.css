@@ -1,0 +1,26 @@
+.conf-menu {float:left;padding:0;}
+.conf-menu li {padding:10px 20px;margin:3px;float:left;display:block;}
+.conf-menu li a {font-weight:bold;color:#fff;text-shadow: 1px 1px 2px #333;}
+.btn-blue{background-color:#14A7D1;}
+.btn-blue:hover{background-color:#127692;}
+.btn-submit{background-color:#14A7D1;}
+.btn-submit:hover{background-color:#127692;}
+.adm{color:#14A7D1;}
+legend {
+padding: 5px 10px;
+color: #fff;
+text-shadow: 1px 1px 2px #333;
+background: #DA4F49;
+border-color: #BD362F;
+}
+textarea {border: 1px solid #bbb;}
+fieldset {
+border:1px solid #bbb; 
+background: #fefefe;
+padding:20px;
+color:#616161;
+}
+.left {width:200px; float:left;}
+.right {width:400px; float:left;font-weight:bold;}
+.clear {clear:both;}
+.tit {float:left; text-decoration:underline;}

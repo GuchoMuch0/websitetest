@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<listings>
+    <listing>
+        <title lang="ru_RU"><![CDATA[Продам кота]]></title>
+        <content lang="ru_RU"><![CDATA[Хороший кот, ласковый, ест мало, мурчит]]></content>
+        <category lang="ru_RU">Продаю</category>
+        <contactemail>email@yahoo.com</contactemail>
+        <contactname>Сергей</contactname>
+        <price>123.45</price>
+        <currency>Руб</currency>
+        <city_area>Москва</city_area>
+        <city>Москва</city>
+        <region>Москва</region>
+        <countryId>RU</countryId>
+        <country>Россия</country>
+        <custom name="client">Companie</custom>
+        <custom name="tip">Vanzare</custom>
+        <image>http://conejo.me/cats/153.jpg</image>
+        <image>http://conejo.me/cats/598.jpg</image>
+        <image>http://conejo.me/cats/1908.jpg</image>
+        <datetime>2013-03-08 12:34:56</datetime>
+    </listing>
+	<listing>
+        <title lang="ru_RU"><![CDATA[3-к квартира, 60 м, 2/9 эт.]]></title>
+        <content lang="ru_RU"><![CDATA[трех смежная вся на одну сторону, пустая сан узел раздельный, лоджия, теплая, удобная транспортная развязка, садик во дворе, школы.]]></content>
+        <category lang="ru_RU">Продаю</category>
+        <contactemail>email@mail.ru</contactemail>
+        <contactname>Антон</contactname>
+        <price>1000000.00</price>
+        <currency>Руб</currency>
+        <city_area>Самарская область</city_area>
+        <city>Самара</city>
+        <region>Самара</region>
+        <countryId>RU</countryId>
+        <country>Россия</country>
+        <custom name="client">Companie</custom>
+        <custom name="tip">Vanzare</custom>
+        <image>https://39.img.avito.st/1280x960/4786459939.jpg</image>
+        <image>https://52.img.avito.st/1280x960/4786460052.jpg</image>
+        <image>https://74.img.avito.st/1280x960/4786460174.jpg</image>
+        <datetime>2013-03-08 12:34:56</datetime>
+    </listing>
+	<listing>
+        <title lang="ru_RU"><![CDATA[2-к квартира, 43 м, 5/5 эт.]]></title>
+        <content lang="ru_RU"><![CDATA[Кваpтиpa в гeoграфическом цeнтрe, рядoм телецентp ,отличная тpaнcпopтнaя развязка, тoлькo после ремoнта с кондиционером, пoлностью.]]></content>
+        <category lang="ru_RU">Продаю</category>
+        <contactemail>email@yandex.ru</contactemail>
+        <contactname>Artyom</contactname>
+        <price>25000000.00</price>
+        <currency>Руб</currency>
+        <city_area>Москва</city_area>
+        <city>Москва</city>
+        <region>Москва</region>
+        <countryId>RU</countryId>
+        <country>Россия</country>
+        <custom name="client">Companie</custom>
+        <custom name="tip">Vanzare</custom>
+        <image>https://15.img.avito.st/1280x960/5452657315.jpg</image>
+        <image>https://29.img.avito.st/1280x960/5622621429.jpg</image>
+        <image>https://57.img.avito.st/1280x960/5622621457.jpg</image>
+        <datetime>2013-03-08 12:34:56</datetime>
+    </listing>
+    
+</listings>

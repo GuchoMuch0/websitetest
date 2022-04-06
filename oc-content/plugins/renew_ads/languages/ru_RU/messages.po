@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+msgid "Republish your ads"
+msgstr "Поднять объявления"
+
+msgid "You don't have any listing yet"
+msgstr "У Вас больше нет объявлений в списке"
+
+msgid "You have republished your ad %s times. You cannot republish this ad!"
+msgstr "Вы подняли Ваше объявл. %s. Вы не можете больше поднять его!"
+
+msgid "To republish this ad again, you need to wait:"
+msgstr "Чтобы поднять объявл. снова, Вам нужно подождать:"
+
+msgid "You can republish this ad %s more times!"
+msgstr "Вы можете опубликовать это объявл. %s больше раз!"
+
+msgid "Republish this ad"
+msgstr "Поднять это объявление"
+
+msgid "Publication date"
+msgstr "Дата поднятия"
+
+msgid "%s days "
+msgstr "%s дней"
+
+msgid "%s hours "
+msgstr "%s часов"
+
+msgid "%s minutes "
+msgstr "%s минут"
+
+msgid "%s seconds "
+msgstr "%s секунд"
+
+msgid "Congratulations. Your ad as been republished!"
+msgstr "Поздравляем. Ваше объявление было поднято!"
+
+msgid "Days to expire: %s"
+msgstr "Истекает дней %s"
+
+msgid "Ad ID: "
+msgstr "Номер объявления:"
+
+msgid "Category: "
+msgstr "Категория"
+
+msgid "This ad expire today"
+msgstr "Срок объявления истекает сегодня"
+
+msgid "Congratulations. Renew ads settings are now saved."
+msgstr "Поздравляем. Поднятие объявл. настроек теперь сохраняются."
+
+msgid "Congratulations. Spam ads cron settings are now saved."
+msgstr "Поздравляем. Спам объявл. настройки cron теперь сохраняются."
+
+msgid "Congratulations. Expired ads cron settings are now saved."
+msgstr "Поздравляем. Устаревшие объявл. настройки cron теперь сохраняются."
+
+msgid "Congratulations. Expired ads have been deleted."
+msgstr "Поздравляем. С истекшим сроком объявл. были удалены."
+
+msgid "Congratulations. Spam ads have been deleted."
+msgstr "Поздравляем. Спам объявления были удалены."
+
+msgid "Renew Ads Settings"
+msgstr "Поднятия объявлений настройки"
+
+msgid "Set max. times an ad can be renewed (Enter 0 for no limitations)."
+msgstr ""
+"Установить макс. число раз объявл. может быть поднято (Введите 0 без "
+"ограничений)."
+
+msgid "User has to wait"
+msgstr "Пользователь должен ждать"
+
+msgid ""
+"seconds to republish the ad again (1 hour = 3600 sec. / 1 day = 86400 sec.)"
+msgstr ""
+"секунд, чтобы поднять объявл. еще раз (1 час = 3600 сек. / 1 день = 86400 "
+"сек.)"
+
+msgid "If the value is set to zero, there is no wait period"
+msgstr "Если значение нуль, не существует период ожидания"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Expired Ads Settings"
+msgstr "Настройки объявл. с истекшим сроком действия"
+
+msgid "Set Cron to delete expired ads"
+msgstr "Уст. Cron удалить объявл. с истекшим сроком действия"
+
+msgid "Hourly"
+msgstr "Почасово"
+
+msgid "Daily"
+msgstr "Ежедневно"
+
+msgid "Weekly"
+msgstr "Еженедельно"
+
+msgid "Off"
+msgstr "Выкл"
+
+msgid ""
+"Set how many days after expiration the ad will be deleted (Enter 0 to delete "
+"the ad the day is expired)."
+msgstr ""
+"Установить, сколько дней после окончания срока объявл. будет удалено ( 0, "
+"чтобы удалить объявл. день истек)."
+
+msgid ""
+"NOTE: both Cron and Manual button will delete maximum of 50 expired ads at a "
+"time"
+msgstr "кнопка Manual удалит максимум 50 объявлений с истекшим сроком"
+
+msgid "MANUALLY DELETE EXPIRED ADS"
+msgstr "ВРУЧНУЮ удаление истекших объявл."
+
+msgid "Spam Ads Settings"
+msgstr "Спам Настройки объявлений"
+
+msgid "Set Cron job to delete spam ads"
+msgstr "Установить cron удалить спам-объявления"
+
+msgid ""
+"NOTE: both Cron and Manual button will delete maximum of 50 SPAM ads at a "
+"time"
+msgstr "кнопка Manual удалит максимум 50 SPAM объявлений"
+
+msgid "MANUALLY DELETE SPAM ADS"
+msgstr "ВРУЧНУЮ удалить нежелательные объявл."
+
+msgid "Next hourly cron:"
+msgstr "Следующий ежечасно cron:"
+
+msgid "Next daily cron:"
+msgstr "Следующий ежедневно cron:"
+
+msgid "Next weekly cron:"
+msgstr "Следующий еженедельно cron:"
+
+msgid "Notify admin when a listing has been renewed"
+msgstr "Уведомить админа, когда список был обновлен"
+
+msgid "Item Id"
+msgstr "Id товара"
+
+msgid "Deleted"
+msgstr "Удаленный"
+
+msgid "Deleted date"
+msgstr "Удаляется дата"
+
+msgid "User Id"
+msgstr "№ пользователя"
+
+msgid "Item Title"
+msgstr "Название"
+
+msgid "Category"
+msgstr "Категории"
+
+msgid "Times renewed"
+msgstr "Времена возобновлено"
+
+msgid "Last renewed"
+msgstr "Последнее обновление"
+
+msgid "Will Expire In Days"
+msgstr "Истекают в днях"
+
+msgid "Contact Email"
+msgstr "Контактный Email"
+
+msgid "Expiring date"
+msgstr "Срок годности"
+
+msgid "Renewed ads log"
+msgstr "Журнал поднятия объявлений"
+
+msgid "Ads been renewed by users"
+msgstr "Объявления были возобновлены пользователями"
+
+msgid "Expiring ads log"
+msgstr "Освобожд объявления журнала"
+
+msgid "Ads that will expire in the next 3 days"
+msgstr "Объявления, которые истекают в течение следующих 3-х дней"
+
+msgid "Deleted expired ads log"
+msgstr "Удалить журнал с истекшим сроком объявл."
+
+msgid "Expired ads that are been deleted"
+msgstr "С истекшим сроком объявл., которые были удалены"
+
+msgid "Set how many days keep the log after the ad has been deleted."
+msgstr ""
+"Установить, сколько дней держать журнал после того, как объявление было "
+"удалено."
+
+msgid "Show only expired ads in user dashboard"
+msgstr ""
+"Показывать объявл. с истекшим сроком годности в пользоват. панели управл."
+
+msgid ""
+"Allow users to only renew ads (it will not change publishing date, only "
+"renew expiration date and retain position)"
+msgstr ""
+"Разрешить пользователям только обновлять объявл. (не изменит дату "
+"публикации, только продлит срок и сохранить позиции)"
+
+msgid "First publication date"
+msgstr "Первая дата публикации"
+
+msgid "Will Expire In"
+msgstr "Истекают В"
+
+msgid "Last publication date"
+msgstr "Последняя дата публикации"
+
+msgid "Renew your ads"
+msgstr "Продлить объявления"
+
+msgid "You don't have any expired ad yet"
+msgstr "Ваш срок действия объявления еще не истек"
+
+msgid "You don't have any published ad yet"
+msgstr "У вас нет каких-либо опубликованных объявлений"
+
+msgid "Renew this ad"
+msgstr "Обновить это объявление"
+
+msgid "Will expire in: "
+msgstr "Истекает в:"
+
+msgid "You have %s your ad %s times. You cannot %s this ad!"
+msgstr "У вас есть %s это раз объявления. Вы не можете %s это объявление!"
+
+msgid "To %s this ad again, you need to wait:"
+msgstr "Для %s этого объявл. и снова, вам нужно подождать:"
+
+msgid "You can %s this ad %s more times!"
+msgstr "Вы можете сделать %s это объявление %s больше раз!"
+
+msgid "Expired"
+msgstr "Истекший"
+
+msgid "Congratulations. Your ad has been %s!"
+msgstr "Поздравляем. Ваше объявление %s!"
+
+msgid "%s your ads"
+msgstr "%s ваши объявления"
+
+msgid "%s this ad"
+msgstr "%s это объявление"
+
+msgid ""
+"Show all ads in user dasboard (disabled, inactive and spam ads are not shown)"
+msgstr ""
+"Показать все объявл. в пользовательской панели управления (откл., неактивные "
+"и спам-объявления не показываются)"
+
+msgid "Republish"
+msgstr "Поднять"
+
+msgid "Renew"
+msgstr "Обновить"
+
+msgid "Republished"
+msgstr "Поднятые"
+
+msgid "Renewed"
+msgstr "Обновленные"
+
+msgid "republish"
+msgstr "Поднять"
+
+msgid "renew"
+msgstr "обновить"
+
+msgid "Deleted for"
+msgstr "Удаляется для"
